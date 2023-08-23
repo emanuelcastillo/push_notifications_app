@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765770584520",
+    "project_id": "flutter-apps-bcf24",
+    "storage_bucket": "flutter-apps-bcf24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765770584520:android:7f44e1fe366bb7626bf0fd",
+        "android_client_info": {
+          "package_name": "com.emanuelcastillo.push_and_local_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765770584520-vqq3osahfndeum89dejlhe3gpj67lfsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZaPSLNAyKCODQ7sHxUb0QJyZJJN3zkh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765770584520-vqq3osahfndeum89dejlhe3gpj67lfsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
